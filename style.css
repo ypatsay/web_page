@@ -1,0 +1,27 @@
+.footer-colums{
+    display: flex;
+}
+
+.footer-colum{
+    flex: 50%;
+    margin: 20px;
+}
+header, footer{
+    background-color: #38b6ff;
+    padding: 10px;
+}
+main{
+    padding: 10px;
+    background-color: silver;
+}
+
+.post{
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    display: flex;
+}
+.post img{
+    margin: 20px;
+}
